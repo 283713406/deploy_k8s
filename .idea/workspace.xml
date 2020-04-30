@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6db5dec-2ea3-4e8e-9a1f-f614ec3dfff0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:/Go" />
+  <component name="ProjectId" id="1b6k4BPmXTnIQeUZfIcyBlf7E0A" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/deploy_k8s/logging" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kylincloud\qgr\src\go_test\shell\deploy_k8s\deploy_k8s\calico\image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kylincloud\qgr\src\go_test\shell\deploy_k8s\deploy_k8s\logging" />
+      <recent name="D:\kylincloud\qgr\src\go_test\shell\deploy_k8s\deploy_k8s" />
+      <recent name="D:\kylincloud\qgr\src\go_test\shell\deploy_k8s\create_vm\terraform\modules\compute" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
